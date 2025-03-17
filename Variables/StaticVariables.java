@@ -1,3 +1,5 @@
+package core;
+//Static variables with values
 public class StaticVariables {
 	static String s="Variables";
 	static byte b1=22;
